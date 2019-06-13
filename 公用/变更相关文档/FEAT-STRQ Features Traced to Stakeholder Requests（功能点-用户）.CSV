@@ -1,0 +1,8 @@
+FEAT -- STRQ Traceability Matrix  (condensed),,,    1：教师  2：管理员  3：学生 4：游客 , 
+FEAT1: 教师信息: ,STRQ1,STRQ2,,
+FEAT2: 学生信息: ,STRQ2,STRQ3,,
+FEAT3: 课程信息: ,STRQ1,,,
+FEAT4: 帐号密码: ,STRQ1,STRQ2,STRQ3,
+FEAT5: 交流论坛: ,STRQ1,STRQ2,STRQ3,
+FEAT6: 课程答疑: ,STRQ1,STRQ3,,
+FEAT8: 管理中心: ,STRQ2,,,
